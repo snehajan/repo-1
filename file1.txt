@@ -1,0 +1,1 @@
+This command replaces the /etc/systemd/system/default.target file with a symbolic link to /usr/lib/systemd/system/name.target, where name is the name of the target unit you want to use. Replace multi-user with the name of the target unit you want to use by default.
